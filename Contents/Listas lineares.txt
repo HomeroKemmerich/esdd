@@ -1,0 +1,13 @@
+
+Clássica
+    suas operações ocorrem somente nas extremidades
+    -> Pilha
+        - "Uma em cima da outra";
+        - Operações nas extremidades;
+        - Regra LIFO (Last Input, First Output);
+        - Topo: informação mais recente (última que entrou);
+        - Base: informação mais antiga(primeir que entrou);
+        - FILO (First Input, Last Output);
+            - Todas as operações no topo;
+        - Utiliza apenas UMA das extremidades
+

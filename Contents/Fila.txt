@@ -1,0 +1,5 @@
+FILA
+    - Regra FIFO;
+    - (Frente: retiradas e consultas)==PILHA.inicio;
+    - (Ré: inclusões)==PILHA.fim;
+    - Utiliza as duas extremidades;
